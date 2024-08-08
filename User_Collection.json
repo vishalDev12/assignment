@@ -1,0 +1,13 @@
+{
+    "_id": "ObjectId", 
+    "username": "string",
+    "email": "string",
+    "password": "string",
+    "friends": [
+      {
+        "friend_id": "ObjectId", 
+        "status": "string" 
+      }
+    ]
+  }
+  

@@ -1,0 +1,8 @@
+{
+    "_id": "ObjectId",
+    "from_user_id": "ObjectId",
+    "to_user_id": "ObjectId",
+    "status": "string", 
+    "created_at": "date"
+  }
+  
